@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicQueue", "LogicQueue\LogicQueue.csproj", "{736BB432-7F98-4EE1-BDA6-73A61ABFE92D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queue.ConsoleUI", "Queue.ConsoleUI\Queue.ConsoleUI.csproj", "{81E9B71B-5FA6-4AB6-9399-30AA592B8789}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{736BB432-7F98-4EE1-BDA6-73A61ABFE92D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{736BB432-7F98-4EE1-BDA6-73A61ABFE92D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{736BB432-7F98-4EE1-BDA6-73A61ABFE92D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{736BB432-7F98-4EE1-BDA6-73A61ABFE92D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81E9B71B-5FA6-4AB6-9399-30AA592B8789}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81E9B71B-5FA6-4AB6-9399-30AA592B8789}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81E9B71B-5FA6-4AB6-9399-30AA592B8789}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81E9B71B-5FA6-4AB6-9399-30AA592B8789}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
